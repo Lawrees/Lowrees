@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lowrees
+- 👋 Hi, I’m @Lawrees
 - 👀 I’m interested in learning how to program software and games apps
 - 🌱 I’m currently learning python as a programming beginner
 - 💞️ I’m looking to collaborate on writing my very first lines of good code
